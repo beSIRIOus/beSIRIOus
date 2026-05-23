@@ -1,25 +1,26 @@
-# Hi there, I'm beSIRIOus! 👋
+# Case Studies & Project References 📊
 
-A system architect and IT project manager based in Vienna, passionate about structuring complex systems, designing efficient workflows, and building smart automation.
-
----
-
-### 🛠️ What I Do
-*   **B2B Process Analysis:** Helping businesses analyze their AS-IS (*IST-Analyse*) processes to find bottlenecks and optimize structures before jumping into new software or ERP systems.
-*   **Digital Product Development & Automation:** Building seamless workflows and custom tools to eliminate repetitive tasks.
-*   **Web Projects:** Developing reliable, performance-optimized web architectures and applications.
-
-### 🧰 Tech Stack & Tools
-*   **Automation & Data:** n8n, Docker, Python, Linux Server Environment
-*   **Web & Systems:** WordPress / Elementor, Odoo, Git
-*   **Methodologies:** Requirements Engineering, Process Mapping, Project Management
+This repository contains selected project documentations, technical references, and frameworks demonstrating executed B2B optimizations.
 
 ---
 
-### 📁 Featured Work
-*   [referenzen](https://github.com/beSIRIOus/referenzen) – Overview of selected client projects and technical case studies.
-*   [ExcelUpdater](https://github.com/beSIRIOus/ExcelUpdater) – A custom automation tool designed to streamline data processing.
+### 🔍 Core Focus: AS-IS Process Analysis
+Before implementing any automation or purchasing complex software/ERP systems, a rigorous **IST-Analyse** is key. 
+I help businesses map their existing workflows, uncover structural bottlenecks, and design clean, future-proof system architectures.
+
+### 🛠️ Applied Solutions in these References
+*   **Process Audit Documentation:** Requirements engineering and blueprints for ERP readiness.
+*   **Workflow Automation:** Production-ready backend connections and API integrations using **n8n** and **Docker**.
+*   **System Environments:** Custom implementations in enterprise-level environments (Odoo, WordPress ecosystem).
 
 ---
 
-*“The goal isn’t to maintain repetitive tasks, but to build systems that automate them.”*
+### 🌐 Connect & Collaborate
+To discuss structural analysis for your company or to explore synergy opportunities:
+
+*   **Website:** [beSIRIOus.net](https://besirious.net)
+*   **Main Profile:** [@beSIRIOus](https://github.com/beSIRIOus)
+
+---
+
+*“Structuring the foundation before automating the workflow.”*
