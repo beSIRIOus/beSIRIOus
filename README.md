@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm beSIRIOus! 👋
 
-<!--
-**beSIRIOus/beSIRIOus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A system architect and IT project manager based in Vienna, passionate about structuring complex systems, designing efficient workflows, and building smart automation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I Do
+*   **B2B Process Analysis:** Helping businesses analyze their AS-IS (*IST-Analyse*) processes to find bottlenecks and optimize structures before jumping into new software or ERP systems.
+*   **Digital Product Development & Automation:** Building seamless workflows and custom tools to eliminate repetitive tasks.
+*   **Web Projects:** Developing reliable, performance-optimized web architectures and applications.
+
+### 🧰 Tech Stack & Tools
+*   **Automation & Data:** n8n, Docker, Python, Linux Server Environment
+*   **Web & Systems:** WordPress / Elementor, Odoo, Git
+*   **Methodologies:** Requirements Engineering, Process Mapping, Project Management
+
+---
+
+### 📁 Featured Work
+*   [referenzen](https://github.com/beSIRIOus/referenzen) – Overview of selected client projects and technical case studies.
+*   [ExcelUpdater](https://github.com/beSIRIOus/ExcelUpdater) – A custom automation tool designed to streamline data processing.
+
+---
+
+*“The goal isn’t to maintain repetitive tasks, but to build systems that automate them.”*
