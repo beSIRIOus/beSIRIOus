@@ -1,27 +1,24 @@
-# Case Studies & Project References 📊
+# Hi there, I'm beSIRIOus! 👋
 
-This is the official reference space for [beSIRIOus/referenzen](https://github.com/beSIRIOus/referenzen), containing selected project documentations, technical frameworks, and blueprints demonstrating executed B2B optimizations.
-
----
-
-### 🔍 Core Focus: AS-IS Process Analysis
-Before implementing any automation or purchasing complex software/ERP systems, a rigorous **IST-Analyse** is key. 
-I help businesses map their existing workflows, uncover structural bottlenecks, and design clean, future-proof system architectures.
-
-### 🛠️ Applied Solutions in these References
-*   **Process Audit Documentation:** Requirements engineering and blueprints for ERP readiness.
-*   **Workflow Automation:** Production-ready backend connections and API integrations using **n8n** and **Docker**.
-*   **System Environments:** Custom implementations in enterprise-level environments (Odoo, WordPress ecosystem).
+A system architect and IT project manager based in Vienna, passionate about structuring complex systems, designing efficient workflows, and building smart automation.
 
 ---
 
-### 🌐 Connect & Collaborate
-To discuss structural analysis for your company or to explore synergy opportunities:
+### 🛠️ What I Do
+*   **B2B Process Analysis:** Helping businesses analyze their AS-IS (*IST-Analyse*) processes to find bottlenecks and optimize structures before jumping into new software or ERP systems.
+*   **Digital Product Development & Automation:** Building seamless workflows and custom tools to eliminate repetitive tasks.
+*   **Web Projects:** Developing reliable, performance-optimized web architectures and applications.
 
-*   **References:** [beSIRIOus/referenzen](https://github.com/beSIRIOus/referenzen)
-*   **Website:** [beSIRIOus.net](https://besirious.net)
-*   **Main Profile:** [@beSIRIOus](https://github.com/beSIRIOus)
+### 🧰 Tech Stack & Tools
+*   **Automation & Data:** n8n, Docker, Python, Linux Server Environment
+*   **Web & Systems:** WordPress / Elementor, Odoo, Git
+*   **Methodologies:** Requirements Engineering, Process Mapping, Project Management
 
 ---
 
-*“Structuring the foundation before automating the workflow.”*
+### 📊 Project References
+*   **References:** [beSIRIOus/referenzen](https://github.com/beSIRIOus/referenzen) – Overview of selected client projects and technical case studies.
+
+---
+
+*“The goal isn’t to maintain repetitive tasks, but to build systems that automate them.”*
