@@ -1,6 +1,6 @@
 # Case Studies & Project References 📊
 
-This repository contains selected project documentations, technical references, and frameworks demonstrating executed B2B optimizations.
+This is the official reference space for [beSIRIOus/referenzen](https://github.com/beSIRIOus/referenzen), containing selected project documentations, technical frameworks, and blueprints demonstrating executed B2B optimizations.
 
 ---
 
@@ -18,6 +18,7 @@ I help businesses map their existing workflows, uncover structural bottlenecks, 
 ### 🌐 Connect & Collaborate
 To discuss structural analysis for your company or to explore synergy opportunities:
 
+*   **References:** [beSIRIOus/referenzen](https://github.com/beSIRIOus/referenzen)
 *   **Website:** [beSIRIOus.net](https://besirious.net)
 *   **Main Profile:** [@beSIRIOus](https://github.com/beSIRIOus)
 
